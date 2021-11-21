@@ -84,3 +84,20 @@ Of the 4464 watches listed, the average price was $21,402 but the most expensive
 ### Distribution of Price by Brand
 
 
+![Price Spread](https://user-images.githubusercontent.com/71770599/142749982-a6407a5f-390e-45a1-b29d-eb4ba3b47248.png)
+
+![Price Spread log](https://user-images.githubusercontent.com/71770599/142750013-204fbb1c-0e53-4743-9a5b-bc3f411dc6f2.png)
+
+
+### Rolex 
+
+
+![Rolex Price Differences](https://user-images.githubusercontent.com/71770599/142751153-35baa4ee-5110-438f-9288-3f60998a46bd.png)
+
+The data shown in the chart does not tell the whole story because many different aspects play a role in the secondary market of the watch, such as materials used and condition. Also, it is important to note that while older watches may be technically worse than newer ones due to their discontinued nature and the irrational behavior of collectors, are often valued higher. ¯\_(ツ)_/¯
+
+But comparing the exact same reference of watch below shows the madness. The difference shows the premium to have this watch now and not deal with the AD's. If you were able to purchase this watch at retail, you could almost double your money walking out of the door. 
+
+![image](https://user-images.githubusercontent.com/71770599/142750989-16bbc037-ac96-4917-a9b0-1f1476598be3.png)
+
+![image](https://user-images.githubusercontent.com/71770599/142750998-0f444fcc-1d88-4240-8a8b-08b308913676.png)
