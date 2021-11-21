@@ -33,15 +33,6 @@ Before diving into the data, see if you can guess the prices of these watches
 </details>
 
 ---
-
-![image](https://user-images.githubusercontent.com/71770599/142749348-0513b638-5eba-440f-9ede-d26534efd1cf.png)
-<details><summary>CLICK ME</summary>
-  
-![image](https://user-images.githubusercontent.com/71770599/142749354-768136d4-5da3-448f-b501-6a1fd9c73f78.png)
-
-</details>
-
----
 ![image](https://user-images.githubusercontent.com/71770599/142749856-1d1ccb57-23ad-4141-a499-53d8cba6d069.png)
 <details><summary>CLICK ME</summary>
   
