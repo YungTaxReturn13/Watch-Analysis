@@ -13,3 +13,16 @@ To get better insight on the secondary market of watches, I have scraped the con
 
 ### Overall
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
