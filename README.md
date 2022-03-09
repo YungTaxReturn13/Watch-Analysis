@@ -3,11 +3,7 @@
 ## Exploratory Data Analysis of the Secondary Watch Market
 
 ### Background
-Bubbles are not new. 
-
-But unlike the more useful assets, such as pokemon cards, dog-themed crypto currencies, and jpegs of monkeys, another anachronistic commodity has been gaining steam. Watches. 
-
-Like most people before the pandemic, I used to give a shit about my appearence. Starting a new job out of college, I thought I would seem more professional with a shiny new wristwatch. This is when I fell down the horological rabit hole. The community of watch enthusiats may not be super wide. However, it runs extremely deep, with people obsessing over all matter of detail. Many cite historical significance as an important factor in evaluating the value of a watch. Others appreciate the mechanical aspect in our digital world. There is no denying that hype is also driving up demand. There almost seems to be a blending of traditional high end fasion intrigue and a new age "hypebeast" culture that, at least for certain brands, is making it borderline impossible to purchase certain watches from a retailer. At the time of writing this, authorized dealers of Rolex watches have empty display cases and promises of putting you on a waitlist.
+The idea of spending thousands on a wristwatch really doesnt make any sense. But given the price if rare pokemon cards, dog-themed crypto currencies, and jpegs of monkeys, I dont really know what to think anymore. 
 
 To get better insight on the secondary market of watches, I have scraped the contents of chronext.com, a website used to buy and sell used watches. I ended up with 4463 listings that were available for sale as of November 27, 2021.
 
@@ -94,7 +90,7 @@ Of the 4464 watches listed, the average price was $21,402 but the most expensive
 
 ![Rolex Price Differences](https://user-images.githubusercontent.com/71770599/142751153-35baa4ee-5110-438f-9288-3f60998a46bd.png)
 
-The data shown in the chart does not tell the whole story because many different aspects play a role in the secondary market of the watch, such as materials used and condition. Also, it is important to note that while older watches may be technically worse than newer ones due to their discontinued nature and the irrational behavior of collectors, are often valued higher. ¯\_(ツ)_/¯
+The data shown in the chart does not tell the whole story because many different aspects play a role in the secondary market of the watch, such as materials used and condition. Also, it is important to note that while older watches may be technically worse than newer ones, due to their rare nature and the irrational behavior of collectors, are often valued higher. ¯\_(ツ)_/¯
 
 But comparing the exact same reference of watch below shows the madness. The difference shows the premium to have this watch now and not deal with the AD's. If you were able to purchase this watch at retail, you could almost double your money walking out of the door. 
 
